@@ -1,0 +1,32 @@
+#grad1 {
+    height: 500px;
+    background: linear-gradient(to right, #ff0066 , #ff5050);
+}
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 1.5em; /* 40px/16=2.5em */
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ff0066
+}
+.center {
+    padding: 20px 0;
+}
+h2 {
+    font-size: 1.5em; /* 40px/16=2.5em */
+    font-family: Arial, Helvetica, sans-serif;
+    color:white
+}
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.0;
+
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #ffffff;
+}
